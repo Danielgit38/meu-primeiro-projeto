@@ -15,11 +15,11 @@ Projeto de criptografar e descriptografar textos desenvolvido para o desafio da 
 ## :pushpin:Acesso ao projeto
 1.Clone o repositório:
 
-- git clone https://github.com/thaleson/challege-alura.git
+- https://github.com/Danielgit38/meu-primeiro-projeto
 
 2.Navegue até o diretório do projeto:
 
-- https://decodificador-de-texto-drab.vercel.app/
+-
 
 ## :file_folder:Estrutura das pastas
 - index.html: Arquivo HTML;
