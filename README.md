@@ -18,9 +18,9 @@ Projeto de criptografar e descriptografar textos desenvolvido para o desafio da 
 - javascript/app.js: Arquivo JavaScript;
 - img/foto-challenger.png: Arquivo destinario de imagens do projeto.
 
-## :scroll:lincença
-Este projeto está licenciado sob a MIT License.
+## :scroll:Licença
 
-Desenvolvido por Daniel Sousa.
+Este projeto está licenciado sob os termos da licença MIT.
 
+Veja o arquivo LICENSE para mais detalhes.
 
