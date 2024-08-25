@@ -12,6 +12,15 @@ Projeto de criptografar e descriptografar textos desenvolvido para o desafio da 
 - `Funcionalidade 2`: Descriptografar texto
 - `Funcionalidade 3`: Copiar texto criptografado/descriptogrado
 
+## :pushpin:Acesso ao projeto
+1.Clone o repositório:
+
+- git clone https://github.com/thaleson/challege-alura.git
+
+2.Navegue até o diretório do projeto:
+
+- https://decodificador-de-texto-drab.vercel.app/
+
 ## :file_folder:Estrutura das pastas
 - index.html: Arquivo HTML;
 - style/style.css: Arquivo CSS de estilização da página;
@@ -23,4 +32,6 @@ Projeto de criptografar e descriptografar textos desenvolvido para o desafio da 
 Este projeto está licenciado sob os termos da licença MIT.
 
 Veja o arquivo LICENSE para mais detalhes.
+
+### Desenvolvido por Daniel Sousa
 
